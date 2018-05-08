@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--Theme colors-->
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--Compass colors-->
+    <color name="background_color">#F555</color>
+    <color name="marker_color">#FFFF</color>
+    <color name="text_color">#FFFF</color>
 </resources>
