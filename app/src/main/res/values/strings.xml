@@ -4,4 +4,5 @@
     <string name="cardinal_east">E</string>
     <string name="cardinal_south">S</string>
     <string name="cardinal_west">W</string>
+    <string name="test">A string to be tested.</string>
 </resources>
